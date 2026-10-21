@@ -1,0 +1,19 @@
+.navbar {
+    width: 100%;
+    padding: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0a0a0a;
+}
+
+
+.links {
+    display: flex;
+    gap: 25px;
+    list-style: none;
+}
+
+.links a {
+    text-decoration: none;
+}
